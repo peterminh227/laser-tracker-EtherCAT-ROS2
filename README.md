@@ -1,4 +1,4 @@
-# 6-DoF Laser Tracker Project
+# LaserTracker ROS2 
 
 **Authors:** Gerald Ebmer, Minh Nhat Vu
 
